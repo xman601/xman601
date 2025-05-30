@@ -9,7 +9,7 @@ Currently enrolled in the Year Up United IT program, I'm focused on gaining prac
 
 - Operating Systems: Windows, Linux, macOS
 - Virtualization: Proxmox, VMware
-- Networking: Cisco Packet Tracer
+- Networking: Configuring Networks, Cisco Packet Tracer
 - Tools: Neovim, Git
 - Hardware: Custom PC building, system optimization
 
