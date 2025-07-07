@@ -23,7 +23,7 @@ Currently enrolled in the Year Up United IT program, I'm focused on gaining prac
 - **[Cisco Linux Unhatched](https://www.credly.com/badges/77f4edcd-68ab-4b24-b4d3-9366ba6d49e5)** (May 2025)  
   Introduces learners to the basics of Linux, guiding them from no experience to basic command-line proficiency.
 
-- **[Google IT Support Certificate](https://www.coursera.org/)** (Expected July 2025)  
+- **[Google IT Support Certificate]([https://www.coursera.org/](https://www.coursera.org/account/accomplishments/professional-cert/YVM8YTN98UJA?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof))** (Expected July 2025)  
   Equips learners with essential IT skills, preparing them for roles like IT support specialist.
 
 
